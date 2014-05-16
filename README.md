@@ -1,4 +1,4 @@
-# package-version [![NPM version](https://badge.fury.io/js/package-version.png)](http://badge.fury.io/js/package-version) [![Build Status](https://travis-ci.org/kaelzhang/node-package-version.png?branch=master)](https://travis-ci.org/kaelzhang/node-package-version) [![Dependency Status](https://gemnasium.com/kaelzhang/node-package-version.png)](https://gemnasium.com/kaelzhang/node-package-version)
+# package-version [![NPM version](https://badge.fury.io/js/package-version.svg)](http://badge.fury.io/js/package-version) [![Build Status](https://travis-ci.org/kaelzhang/node-package-version.svg?branch=master)](https://travis-ci.org/kaelzhang/node-package-version) [![Dependency Status](https://gemnasium.com/kaelzhang/node-package-version.svg)](https://gemnasium.com/kaelzhang/node-package-version)
 
 Get the version of a package from package.json
 
