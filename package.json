@@ -1,6 +1,6 @@
 {
   "name": "package-version",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "package-version",
   "main": "index.js",
   "scripts": {
